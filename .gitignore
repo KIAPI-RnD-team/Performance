@@ -1,0 +1,4 @@
+# 공개 저장소 — 암호로 잠긴 index.html 한 장만 허용
+*
+!index.html
+!.gitignore
